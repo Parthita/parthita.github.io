@@ -2,7 +2,7 @@ I created this website while I was learning html and css.
 
 
 
-Then I kinda list interest in html and css and left the project.
+Then I kinda lost interest in html and css and left the project.
 
 
 
